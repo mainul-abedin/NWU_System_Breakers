@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674933040 source:c:\users\user\documents\nwu_system_breakers\main.c
+	<stdio.h>
+	<stdlib.h>
+
